@@ -1,0 +1,2 @@
+# neovim
+AstroNvim cconfiguration
