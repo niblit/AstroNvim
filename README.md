@@ -1,2 +1,2 @@
-# neovim
-AstroNvim Configuration
+# AstroNvim Configuration
+
